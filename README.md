@@ -1,4 +1,7 @@
 # spidy-fan-made
 CSS based animation 
-#demo
+# demo
 <img src="spidy.png">
+
+## copywrite
+(C)Rahul Dey 2020
